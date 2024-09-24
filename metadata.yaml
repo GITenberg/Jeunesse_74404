@@ -1,0 +1,32 @@
+_repo: Jeunesse_74404
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wagner, Charles
+    birthdate: 1852
+    deathdate: 1918
+    gutenberg_agent_id: '25671'
+    url: http://www.gutenberg.org/2009/agents/25671
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Charles_Wagner
+    - https://fr.wikipedia.org/wiki/Charles_Wagner
+description: ''
+gutenberg_issued: '2024-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74404'
+language: fr
+pgterms:marc904: https://archive.org/details/jeunessew00wagn/
+pgterms:marc905: 20240825045233wagner
+pgterms:marc906: '1892'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aParis :$bFischbacher, $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Jeunesse
+url: http://www.gutenberg.org/ebooks/74404
