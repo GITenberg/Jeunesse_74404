@@ -1,5 +1,8 @@
 _repo: Jeunesse_74404
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74404-h/images/cover.jpg
 creator:
   author:
     agent_name: Wagner, Charles
@@ -11,6 +14,8 @@ creator:
     - http://en.wikipedia.org/wiki/Charles_Wagner
     - https://fr.wikipedia.org/wiki/Charles_Wagner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74404#Jeunesse
 gutenberg_issued: '2024-09-11'
 gutenberg_type: Text
 identifiers:
